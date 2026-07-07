@@ -1,0 +1,29 @@
+{
+  "identifier": "splitbillapp",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "splitbillapp_pro",
+      "localizations": [
+        {
+          "description": "Unlocks uneven splits, itemized splitting, and running IOU balances.",
+          "displayName": "Splitbill Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "splitbillapp_pro",
+      "referenceName": "Splitbill Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
